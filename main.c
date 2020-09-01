@@ -7,7 +7,7 @@ int main(void) {
 
   fahrenheit = (1.8 * atof(celsius) + 32.0);
   
-  printf("%f° in Celsius is equivalent to %f° Fahrenheit.",atof(celsius), fahrenheit);
+  printf("%f° in Celsius is equivalent to %f° Fahrenheit.\n",atof(celsius), fahrenheit);
 
 
  

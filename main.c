@@ -1,4 +1,7 @@
 // Author: Xiangting Li xzl5423@psu.edu
+// Collaborator: Jiahui Lan jzl6335@psu.edu
+// collaborator: Ivy Qi ijq5005@psu.edu
+// collaborator: Josiah Edward Harrison jeh6043@psu.edu
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
